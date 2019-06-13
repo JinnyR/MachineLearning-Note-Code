@@ -19,6 +19,8 @@ Implementation of Gaussian Naive Bayes Classification.
 
 Did not use ML libraries.
 
+Bank note authentication dataset: http://archive.ics.uci.edu/ml/datasets/banknote+authentication
+
 Modified from https://github.com/ShaishavJogani/Naive-Bayes-Classfier
 
 - Rewrite the Cross-validation function
