@@ -33,5 +33,5 @@ GNB.py
 
   - Translate from Python 2 to Python 3
 
-- Parts of functions are from https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+- Parts of the functions are from https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
 
