@@ -17,7 +17,7 @@ GNB.py
 
 Implementation of Gaussian Naive Bayes Classification.
 
-Did not use ML library
+Did not use ML libraries.
 
 Modified from https://github.com/ShaishavJogani/Naive-Bayes-Classfier
 
