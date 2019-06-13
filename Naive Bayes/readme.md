@@ -15,14 +15,23 @@ CODE:
 
 GNB.py
 
-Implementation of Gaussian Naive Bayes Classification.
+- Implementation of Gaussian Naive Bayes Classification.
 
-Did not use ML libraries.
+- Did not use ML libraries.
 
-Bank note authentication dataset: http://archive.ics.uci.edu/ml/datasets/banknote+authentication
+- Bank note authentication dataset: http://archive.ics.uci.edu/ml/datasets/banknote+authentication
+  - **Attribute Information:**
+    1. variance of Wavelet Transformed image (continuous) 
+    2. skewness of Wavelet Transformed image (continuous) 
+    3. curtosis of Wavelet Transformed image (continuous) 
+    4. entropy of image (continuous) 
+    5. class (integer) 
 
-Modified from https://github.com/ShaishavJogani/Naive-Bayes-Classfier
+- Modified from https://github.com/ShaishavJogani/Naive-Bayes-Classfier
 
-- Rewrite the Cross-validation function
+  - Rewrite the Cross-validation function
 
-- Translate from Python 2 to Python 3
+  - Translate from Python 2 to Python 3
+
+- Parts of functions are from https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+
