@@ -17,7 +17,7 @@ GNB.py
 
 - Implementation of Gaussian Naive Bayes Classification.
 
-- Did not use ML libraries.
+- Did not use ML packages.
 
 - Bank note authentication dataset: http://archive.ics.uci.edu/ml/datasets/banknote+authentication
   - **Attribute Information:**
